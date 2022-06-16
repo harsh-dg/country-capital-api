@@ -33,10 +33,10 @@
  
  To install all required files
  
- **pip install -r requirements.txt**
+ <div> <b>pip install -r requirements.txt</b> </div>
 
 To run Flask application
 
-**python app.py**
+<div> <b>python app.py</b> </div>
 
 Visit http://localhost:5000
