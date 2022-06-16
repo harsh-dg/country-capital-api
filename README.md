@@ -12,7 +12,7 @@
 
  <pre>
  capital-city-name                        Delhi
- <i>STRING</i>                                 <i>REQUIRED</i>  use this parameter when searching for a country
+ <i>STRING</i>                                      <i>REQUIRED</i>  use this parameter when searching for a country
  </pre>
  
 #### Response Body
