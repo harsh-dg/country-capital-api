@@ -31,12 +31,12 @@
  
  ### Installation and Setup
  
- To install all required files
+ **To install all required files**
  
- ``` <b>pip install -r requirements.txt</b> ```
+ ``` pip install -r requirements.txt ```
 
-To run Flask application
+**To run Flask application**
 
-``` <b>python app.py</b> ```
+``` python app.py ```
 
 Visit http://localhost:5000
