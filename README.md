@@ -33,10 +33,10 @@
  
  To install all required files
  
- <div> <b>pip install -r requirements.txt</b> </div>
+ ``` <b>pip install -r requirements.txt</b> ```
 
 To run Flask application
 
-<div> <b>python app.py</b> </div>
+``` <b>python app.py</b> ```
 
 Visit http://localhost:5000
