@@ -10,14 +10,14 @@
   
 ### Required Parameter
 
- <pre>
+ ```
  capital-city-name                        Delhi
  *STRING*                                 *REQUIRED*  use this parameter when searching for a country
- </pre>
+ ```
  
 #### Response Body
  
- <pre>
+ ```
 {4 items
   "error":false
   "statusCode":200
@@ -27,7 +27,7 @@
             "capital":"Delhi"
           }
 }
- </pre>
+ ```
  
  ### Installation and Setup
  
